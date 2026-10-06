@@ -1,0 +1,1055 @@
+# Copyright (C) 2024 WebTips
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stick My Header for Astra 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/str-sticky-header\n"
+"POT-Creation-Date: 2024-10-31T13:36:54+00:00\n"
+"PO-Revision-Date: 2024-11-07 11:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Domain: stick-my-header-for-astra\n"
+
+#. Plugin Name of the plugin
+#: C:\wamp64\www\webtips\smoothies\wp-content\plugins\str-sticky-header\str-sticky-header.php
+#: inc/customizer.php:8 view/admn-view.php:86 view/admn-view.php:155
+#: view/admn-view.php:168 view/admn-view.php:207 view/admn-view.php:225
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: C:\wamp64\www\webtips\smoothies\wp-content\plugins\str-sticky-header\str-sticky-header.php
+msgid "https://webtips.me/"
+msgstr ""
+
+#. Description of the plugin
+#: C:\wamp64\www\webtips\smoothies\wp-content\plugins\str-sticky-header\str-sticky-header.php
+msgid "It makes the Astra theme more efficient, more powerful and the most beautiful for FREE. With SH, your Header section becomes sticky when a user scrolls Up/Down on a page, and it edits the header section settings like the background color, z-index...etc"
+msgstr "Il rend le thème Astra plus efficace, plus puissant et plus beau GRATUITEMENT. Avec SH, votre section d'en-tête (Header) devient collante (sticky) lorsqu'un utilisateur fait défiler une page vers le haut ou vers le bas, et il modifie les paramètres de la section d'en-tête comme la couleur du fond, du texte, opacité du fond...etc"
+
+#. Author of the plugin
+#: C:\wamp64\www\webtips\smoothies\wp-content\plugins\str-sticky-header\str-sticky-header.php
+msgid "WebTips"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "HEADER SETTINGS"
+msgstr "PARAMÈTRES HEADER"
+
+#: inc/customizer.php:52
+msgid "Here, you can edit your website's header settings like the background, border bottom and shadow, any editing of these parameters have to be done when the Header is not sticky (in the top page)."
+msgstr "Ici, vous pouvez modifier les paramètres de l'en-tête (Header) de votre site web, tels que l'arrière-plan, la bordure inférieure et l'ombre. Toute modification de ces paramètres doit être effectuée lorsque l'en-tête est en haut de la page d'accueil."
+
+#: inc/customizer.php:53 inc/customizer.php:227 inc/customizer.php:565
+#: inc/customizer.php:733 inc/customizer.php:758
+msgid "h2"
+msgstr ""
+
+#: inc/customizer.php:66 inc/customizer.php:240 inc/customizer.php:402
+#: inc/customizer.php:468 inc/customizer.php:520 inc/customizer.php:603
+#: view/admn-view.php:160 view/admn-view.php:173
+msgid "Background Color"
+msgstr "Fond - Couleur"
+
+#: inc/customizer.php:67
+msgid "Header Background Color. Default value : none"
+msgstr "Couleur de fond du header. Valeur par défaut : aucune"
+
+#: inc/customizer.php:89 inc/customizer.php:257 inc/customizer.php:620
+msgid "Background Opacity"
+msgstr "Fond - Opacité"
+
+#: inc/customizer.php:90
+msgid "Header Background Opacity. Default value : 1. You can edit it from 0 to 1 only"
+msgstr "Opacité de fond du header. Valeur par défaut : 1. Vous pouvez la modifier de 0 à 1 uniquement"
+
+#: inc/customizer.php:105 inc/customizer.php:273 view/admn-view.php:185
+#: view/admn-view.php:189 view/admn-view.php:194 view/admn-view.php:199
+msgid "Z-index"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Header Z-Index. Default value : 1. If your header is not visible, set this to 1000 minimum"
+msgstr "Z-index du header. Valeur par défaut : 1. Si votre en-tête (header) n est pas visible, réglez cette valeur à 1000 minimum"
+
+#: inc/customizer.php:124 inc/customizer.php:292 inc/customizer.php:636
+msgid "Border Bottom Size (px)"
+msgstr "Bordure Inférieure - Taille (px)"
+
+#: inc/customizer.php:125
+msgid "Header Border Bottom Size. Default value : unset."
+msgstr "Taille de la bordure inférieure de l en-tête (header). Valeur par défaut : non définie."
+
+#: inc/customizer.php:138 inc/customizer.php:306 inc/customizer.php:650
+msgid "Border Bottom Color"
+msgstr "Bordure inférieure - Couleur"
+
+#: inc/customizer.php:139
+msgid "Header Border Bottom Color. Default value : unset."
+msgstr "Couleur de la bordure inférieure de l en-tête (header). Valeur par défaut : non définie."
+
+#: inc/customizer.php:147 inc/customizer.php:659
+msgid "HEADER SHADOW"
+msgstr "OMBRE DE L'EN-TÊTE"
+
+#: inc/customizer.php:148
+msgid "Here, you can edit your website's header shadow settings when it is not sticky (in the top page)."
+msgstr "Ici, vous pouvez modifier les paramètres de l'ombre de l'en-tête (header shadow) de votre site web lorsque le header est en haut de la page (position initiale)."
+
+#: inc/customizer.php:149 inc/customizer.php:317 inc/customizer.php:389
+#: inc/customizer.php:455 inc/customizer.php:507 inc/customizer.php:590
+#: inc/customizer.php:661
+msgid "h3"
+msgstr ""
+
+#: inc/customizer.php:163 inc/customizer.php:331 inc/customizer.php:675
+msgid "Vertical Alignment (px)"
+msgstr "Alignement vertical (px)"
+
+#: inc/customizer.php:164
+msgid "Header Shadow appearance from bottom. Default value : 0. As soon as you increase this value, you see it displaying."
+msgstr "Apparition de l ombre de l en-tête (header header) à partir du bas. Valeur par défaut : 0. Dès que vous augmentez cette valeur, vous la voyez s afficher."
+
+#: inc/customizer.php:178 inc/customizer.php:346 inc/customizer.php:690
+msgid "Blur (px)"
+msgstr "Flou (px)"
+
+#: inc/customizer.php:179
+msgid "Header Shadow Blur. Default value : 0."
+msgstr "Flou de l ombre de l en-tête (header shadow blur). Valeur par défaut : 0."
+
+#: inc/customizer.php:192 inc/customizer.php:360 inc/customizer.php:704
+msgid "Color"
+msgstr "Couleur"
+
+#: inc/customizer.php:193
+msgid "Header Shadow Color. Default value : black."
+msgstr "Couleur de l ombre de l en-tête (header shadow color). Valeur par défaut : noir."
+
+#: inc/customizer.php:209 inc/customizer.php:377 inc/customizer.php:721
+msgid "Opacity"
+msgstr "Opacité"
+
+#: inc/customizer.php:210
+msgid "Header Shadow Opacity. Default value : 0.1, recommended."
+msgstr "Opacité de l ombre de l en-tête (header shadow opacity). Valeur par défaut : 0.1, recommandée."
+
+#: inc/customizer.php:225
+msgid "STICKY HEADER SETTINGS"
+msgstr "PARAMÈTRES STICKY HEADER"
+
+#: inc/customizer.php:226
+msgid "Here, you can make your header sticky. To be able to see the editings, you should scroll your page a bit down."
+msgstr "Ici, vous pouvez rendre votre en-tête (header) défilant (sticky). Pour pouvoir voir les modifications en temps réel, vous devez faire défiler votre page un peu plus bas."
+
+#: inc/customizer.php:241
+msgid "Sticky Header Background Color. Default value : unset."
+msgstr "Couleur du fond de l en-tête (sticky header background color). Valeur par défaut : non définie."
+
+#: inc/customizer.php:258
+msgid "Sticky Header Background Opacity. Default value : 1. You can edit it from 0 to 1 only."
+msgstr "Opacité de l arrière-plan de l en-tête (Sticky Header Background Opacity). La valeur par défaut est de 1. Vous pouvez la modifier de 0 à 1 seulement."
+
+#: inc/customizer.php:274
+msgid "Sticky Header Z-Index. Default value : 1. If your header is not visible, set this to 1000 minimum."
+msgstr "La valeur Z-index de l en-tête (sticky header). Valeur par défaut : 1. Si votre en-tête n est pas visible, réglez cette valeur sur 1000 au minimum."
+
+#: inc/customizer.php:293
+msgid "Sticky Header Border Bottom Size. Default value : unset."
+msgstr "Taille de la bordure inférieure de l en-tête (Sticky Header Border Bottom Size). Valeur par défaut : non définie."
+
+#: inc/customizer.php:307
+msgid "Sticky Header Border Bottom Color. Default value : unset."
+msgstr "Couleur de la bordure inférieure de l en-tête (Sticky Header Border Bottom Color). Valeur par défaut : non définie."
+
+#: inc/customizer.php:315
+msgid "SHADOW"
+msgstr "OMBRE - SHADOW"
+
+#: inc/customizer.php:316
+msgid "In this subsection, you can edit your sticky header shadow settings. To be able to see the editings, scroll down your page a bit, then start editing."
+msgstr "Dans cette sous-section, vous pouvez modifier les paramètres de l'ombre de l'en-tête (sticky header shadow). Pour voir les modifications, faites défiler votre page un peu vers le bas, puis commencez à modifier."
+
+#: inc/customizer.php:332
+msgid "Sticky Header Shadow Appearance. Default value : 0. Once you start increasing it, you will see it in your header bottom"
+msgstr "Apparence de l ombre de l en-tête (Sticky Header Shadow Appearance). Valeur par défaut : 0. Une fois que vous aurez commencé à l augmenter, vous le verrez dans le bas de votre en-tête"
+
+#: inc/customizer.php:347
+msgid "Sticky Header Shadow Blur. Default value : 0."
+msgstr "Flou de l ombre de l en-tête (Sticky Header Shadow Blur). Valeur par défaut : 0."
+
+#: inc/customizer.php:361
+msgid "Sticky Header Shadow Color. Default value : black."
+msgstr "Couleur de l ombre de l en-tête (Sticky Header Shadow Color). Valeur par défaut : noir."
+
+#: inc/customizer.php:378
+msgid "Sticky Header Shadow Opacity. Default value : 0.1, recommended."
+msgstr "Opacité de l ombre de l en-tête (Sticky Header Shadow Color). Valeur par défaut : 0.1, recommandé."
+
+#: inc/customizer.php:387
+msgid "PRIMARY MENU"
+msgstr "MENU PRINCIPAL"
+
+#: inc/customizer.php:388
+msgid "In this subsection, you can edit your website's main navigation menu when your header is sticky (after scrolling a bit down)."
+msgstr "Dans cette sous-section, vous pouvez modifier le design du menu de navigation principal de votre site web lorsque l'en-tête (header) est défilé (sticky) un peu vers le bas."
+
+#: inc/customizer.php:403
+msgid "Sticky Header Main menu Background Color. Default value : unset."
+msgstr "Couleur du fond de l en-tête (sticky header) du menu principal. Valeur par défaut : non définie."
+
+#: inc/customizer.php:416 inc/customizer.php:482 inc/customizer.php:534
+msgid "Links Color - Normal"
+msgstr "Couleur des liens - Normal"
+
+#: inc/customizer.php:417
+msgid "Sticky Header Main menu Links Color in a normal state. Default value : unset."
+msgstr "Couleur des liens du menu principal de l en-tête (sticky header) dans un état normal (pas de survol, ni actif). Valeur par défaut : non définie."
+
+#: inc/customizer.php:430 inc/customizer.php:496 inc/customizer.php:548
+msgid "Links Color - Hover"
+msgstr "Couleur des liens - Survol"
+
+#: inc/customizer.php:431
+msgid "Sticky Header Main menu Links Color in a hover state. Default value : unset."
+msgstr "Couleur des liens du menu principal de l en-tête (sticky header) en état de survol. Valeur par défaut : non définie."
+
+#: inc/customizer.php:444
+msgid "Links Color - Active"
+msgstr "Couleur des liens - Actif"
+
+#: inc/customizer.php:445
+msgid "Sticky Header Main menu Links Color in a active state. Default value : unset."
+msgstr "Couleur des liens du menu principal de l en-tête (sticky header) en état actif. Valeur par défaut : non définie."
+
+#: inc/customizer.php:453
+msgid "SUB PRIMARY MENU"
+msgstr "SOUS-MENU PRINCIPAL"
+
+#: inc/customizer.php:454
+msgid "In this subsection, you can edit your website's submenu of the main navigation menu when your header is sticky (after scrolling a bit down)."
+msgstr "Dans cette sous-section, vous pouvez modifier le sous-menu du menu de navigation principal de votre site web lorsque l'en-tête est défilé un peu vers le bas."
+
+#: inc/customizer.php:469
+msgid "Sticky Header Sub Primary Menu Background Color. Default value : unset."
+msgstr "Couleur du fond de l en-tête (sticky header) du sous-menu principal. Valeur par défaut : non définie."
+
+#: inc/customizer.php:483
+msgid "Sticky Header Sub Primary Menu Links Color (Normal State). Default value : unset."
+msgstr "Couleur des liens en état normal de l en-tête (sticky header) du sous-menu principal. Valeur par défaut : non définie."
+
+#: inc/customizer.php:497
+msgid "Sticky Header Sub Primary Menu Links Color (Hover State). Default value : unset."
+msgstr "Couleur des liens en état de survol du menu principal de l en-tête (sticky header). Valeur par défaut : non définie."
+
+#: inc/customizer.php:505
+msgid "SECONDARY NAVIGATION MENU"
+msgstr "MENU DE NAVIGATION SECONDAIRE"
+
+#: inc/customizer.php:506
+msgid "In this subsection, you can edit your website's secondary navigation menu when it's sticky (after scrolling a bit down)."
+msgstr "Dans cette sous-section, vous pouvez modifier le menu de navigation secondaire de votre site web lorsqu'il est défilé un peu vers le bas."
+
+#: inc/customizer.php:521
+msgid "Sticky Header Secondary Menu Background Color. Default value : unset."
+msgstr "Couleur du fond du menu secondaire de l en-tête (sticky header). Valeur par défaut : non définie."
+
+#: inc/customizer.php:535
+msgid "Sticky Header Secondary Menu Links Color (Normal State). Default value : unset."
+msgstr "Couleur des liens en état normal du menu secondaire de l en-tête (sticky header). Valeur par défaut : non définie."
+
+#: inc/customizer.php:549
+msgid "Sticky Header Secondary Menu Links Color (Hover State). Default value : unset."
+msgstr "Couleur des liens en état de survol du menu secondaire de l en-tête (sticky header). Valeur par défaut : non définie."
+
+#: inc/customizer.php:563
+msgid "MOBILE/TABLETTE"
+msgstr "MOBILE/TABLETTE"
+
+#: inc/customizer.php:564
+msgid "Here, you can make your website's header sticky in mobile screens and tablettes. Don't forget to switch the display mode to Mobile view so you can see the changes"
+msgstr "Ici, vous pouvez rendre l'en-tête (header) de votre site web défilant (sticky) sur les écrans mobiles et les tablettes. N'oubliez pas de basculer le mode d'affichage sur Mobile pour voir les changements"
+
+#: inc/customizer.php:579 view/admn-view.php:230
+msgid "Sticky Header on Mobile/Tablette"
+msgstr "Header défilant (sticky) sur mobile/tablette"
+
+#: inc/customizer.php:580
+msgid "When you check this, your website header will be sticky on smartphones screen and tablettes. Default value : unchecked."
+msgstr "Si vous cochez cette case, l en-tête (header) de votre site web sera affiché sur les écrans de smartphones et de tablettes lorsque l utilisateur fait défiler les page. Valeur par défaut : non coché."
+
+#: inc/customizer.php:588
+msgid "STICKY HEADER"
+msgstr "STICKY HEADER"
+
+#: inc/customizer.php:589
+msgid "In this subsection, you can edit the background, border bottom and shadow of the Header when it's sticky for mobile screens and tablettes only. Scroll your page a bit down so you can view the changes"
+msgstr "Dans cette sous-section, vous pouvez modifier l'arrière-plan, la bordure inférieure et l'ombre de l'en-tête (header) lorsqu'il a quitté sa position initiale pour les écrans mobiles et les tablettes uniquement. Faites défiler votre page un peu vers le bas pour pouvoir visualiser les modifications"
+
+#: inc/customizer.php:604
+msgid "Mobile/Tablette Sticky Header Background Color. Default value : unset."
+msgstr "Couleur d arrière-plan de l en-tête (header) sur Mobile/Tablette. Valeur par défaut : non définie."
+
+#: inc/customizer.php:621
+msgid " Mobile/Tablette Sticky Header Background Opacity. Default value : 1."
+msgstr " Opacité de l arrière-plan de l en-tête (header) sur Mobile/Tablette. Valeur par défaut : 1."
+
+#: inc/customizer.php:637
+msgid " Mobile/Tablette Sticky Header Border Bottom Size. Default value : unset."
+msgstr " Taille de la bordure inférieure de l en-tête (header) sur Mobile/Tablette. Valeur par défaut : non définie."
+
+#: inc/customizer.php:651
+msgid " Mobile/Tablette Sticky Header Border Bottom Color. Default value : unset."
+msgstr " Couleur de la bordure inférieure de l en-tête (header) sur Mobile/Tablette. Valeur par défaut : non définie."
+
+#: inc/customizer.php:660
+msgid "Here, you can add a shadow to your website's sticky header, you can edit settings like appearance, blur, color, and shadow opacity for mobile screens and tablettes only. Scroll your page a bit down so you can view the changes."
+msgstr "Ici, vous pouvez ajouter une ombre (shadow) à l'en-tête (sticky header) de votre site web, vous pouvez modifier les paramètres tels que l'apparence, le flou, la couleur et l'opacité de l'ombre pour les écrans mobiles et les tablettes uniquement. Faites défiler votre page un peu vers le bas pour voir les changements."
+
+#: inc/customizer.php:676
+msgid " Mobile/Tablette Sticky Header Shadow Appearance. Default value : 0. As soon as you start increasing it, you will see it appearing (if you activated the Mobile view interface)"
+msgstr " Apparition de l ombre de l en-tête (sticky header) sur Mobile/Tablette. Valeur par défaut : 0. Dès que vous commencez à l augmenter, vous le verrez apparaître (si vous avez activé l'interface de la vue mobile)"
+
+#: inc/customizer.php:691
+msgid " Mobile/Tablette Sticky Header Shadow Blur. Default value : 0. Do not forget to switch the display mode to Mobile view so you can see the editings."
+msgstr " Flou de l ombre de l en-tête (sticky header) sur Mobile/Tablette. Valeur par défaut : 0. N oubliez pas de basculer le mode d affichage en vue mobile pour pouvoir voir les modifications."
+
+#: inc/customizer.php:705
+msgid " Mobile/Tablette Sticky Header Shadow Color. Default value : black. Do not forget to switch the display mode to Mobile view so you can see the editings."
+msgstr " Couleur de l ombre de l en-tête (sticky header) sur Mobile/Tablette. Valeur par défaut : noir. N oubliez pas de basculer le mode d affichage en vue mobile pour pouvoir voir les modifications."
+
+#: inc/customizer.php:722
+msgid "Mobile/Tablette Sticky Header Shadow Opacity. Default value : 0.1, recommended. Do not forget to switch the display mode to Mobile view so you can see the editings."
+msgstr "Opacité de l ombre de l en-tête (sticky header) sur Mobile/Tablette. Valeur par défaut : 0.1, recommandé. N oubliez pas de basculer le mode d affichage en vue Mobile pour que vous puissiez voir les modifications."
+
+#: inc/customizer.php:731 inc/customizer.php:747
+msgid "CUSTOM CSS"
+msgstr "CSS PERSONNALISÉ"
+
+#: inc/customizer.php:732
+msgid "Here, you can add any CSS code that you want, in order to customize your header."
+msgstr "Ici, vous pouvez ajouter tout code CSS que vous souhaitez, afin de personnaliser l'en-tête de votre site web."
+
+#: inc/customizer.php:748
+msgid "If you want to add any CSS code to customize your header, you can write it inside the box bellow."
+msgstr "Si vous souhaitez ajouter un code CSS pour personnaliser l en-tête de votre site web, vous pouvez l écrire dans la case ci-dessous."
+
+#: inc/customizer.php:756
+msgid "For Further PRO Customization"
+msgstr "Pour une Personnalisation PRO"
+
+#: inc/customizer.php:757
+msgid "Contact Us to : contact@webtips.me"
+msgstr "Contactez-nous à : contact@webtips.me"
+
+#: inc/customizer.php:759
+msgid "#1db594"
+msgstr ""
+
+#: inc/customizer.php:760
+msgid "white"
+msgstr ""
+
+#: view/admn-view.php:16
+msgctxt "Noun: Welcome to our store."
+msgid "Welcome"
+msgstr "Accueil"
+
+#: view/admn-view.php:17
+msgid "Documentation"
+msgstr "Documentation"
+
+#: view/admn-view.php:18
+msgctxt "Noun: communication and support."
+msgid "Support"
+msgstr "Support"
+
+#: view/admn-view.php:23
+msgid "Rate Us"
+msgstr "Évaluez-nous"
+
+#: view/admn-view.php:26
+msgid "Donate to SH"
+msgstr "Faites un don à SH"
+
+#. translators: Name: Name of any user of this plugin.
+#: view/admn-view.php:34
+msgid "Hello %s,"
+msgstr "Bonjour %s,"
+
+#. translators: Name: The name of this plugin.
+#: view/admn-view.php:38
+msgid "Welcome To %s"
+msgstr "Bienvenue sur %s"
+
+#. translators: Name: The name of this plugin.
+#: view/admn-view.php:39
+msgid "FREE"
+msgstr "FREE"
+
+#: view/admn-view.php:41
+msgid "This plugin is an Astra theme Add-on, it improves your theme's functionality, allowing the website's header to elegantly stick to the top, and enhances user navigation and visual appeal effortlessly."
+msgstr "Cette extension est un complément du thème Astra, elle améliore la fonctionnalité de votre thème, permettant au Header du site web de rester visible en haut, et améliore la navigation de l'utilisateur et l'attrait visuel sans effort."
+
+#: view/admn-view.php:43 view/admn-view.php:82
+msgid "Start Header Customizing"
+msgstr "Commencer A Personnaliser"
+
+#: view/admn-view.php:51
+msgid "Check SH Demo"
+msgstr "Voir La Démo d'SH"
+
+#: view/admn-view.php:56
+msgid "An illustration which represents and highlights the stickiness of a header section in a web page"
+msgstr "Une illustration qui représente et met en évidence la visibilité de la section Header dans une page web"
+
+#. translators: Name: Name of this plugin.
+#: view/admn-view.php:66
+msgid "Thanks for using the %s,"
+msgstr "Merci d'avoir utilisé %s,"
+
+#: view/admn-view.php:68
+msgid "Header Configuration"
+msgstr "Configuration par défaut du Header"
+
+#: view/admn-view.php:70
+msgid "After installing and activating our plugin, the Header will become"
+msgstr "Après l'installation et l'activation de notre extension, l'en-tête (header) deviendra"
+
+#: view/admn-view.php:70
+msgid "sticky automatically"
+msgstr "automatiquement défilant (sticky)"
+
+#: view/admn-view.php:71
+msgid ""
+"If you have already set a Background Color for the Header before activating this plugin, \r\n"
+"        the same color will be applied after activating Stick My Header for Astra for the first time."
+msgstr ""
+"Si vous avez déjà défini une couleur d'arrière-plan pour l'en-tête (header) avant d'activer ce plugin, \r\n"
+"        la même couleur sera appliquée après avoir activé Stick My Header for Astra pour la première fois."
+
+#: view/admn-view.php:78
+msgid "Getting Started With Stick My Header for Astra"
+msgstr "Démarrer avec Stick My Header for Astra"
+
+#: view/admn-view.php:80
+msgid "This plugin will allow you to have a sticky header, and customize it as you wish."
+msgstr "Ce plugin vous permettra d'avoir un en-tête (header) défilant (sticky), et de le personnaliser comme vous le souhaitez."
+
+#: view/admn-view.php:81
+msgid "In order to start header customization"
+msgstr "Pour commencer la personnalisation du header"
+
+#: view/admn-view.php:82
+msgid "you need to click on"
+msgstr "vous devez cliquer sur"
+
+#: view/admn-view.php:82
+msgid "button that you'll find under"
+msgstr "que vous trouverez sous l'onglet"
+
+#: view/admn-view.php:82
+msgid "Welcome"
+msgstr "Accueil"
+
+#: view/admn-view.php:82
+msgid "tab as you can see below"
+msgstr "comme vous pouvez le voir ci-dessous"
+
+#: view/admn-view.php:86
+msgid "This will redirect you to the"
+msgstr "Cela vous redirigera vers la section"
+
+#: view/admn-view.php:86
+msgid "section (see more about it in the next paragraph below) in the WordPress Customizer where you can edit your Header settings"
+msgstr "(voir plus de détails dans le paragraphe suivant) dans le Customizer de WordPress où vous pouvez modifier les paramètres de l'en-tête (header)"
+
+#: view/admn-view.php:92
+msgid "Sticky Header section"
+msgstr "La section Sticky Header"
+
+#: view/admn-view.php:94
+msgid "This section is devided to 4 parts"
+msgstr "Cette section est divisée en 4 parties"
+
+#: view/admn-view.php:95 view/admn-view.php:159 view/admn-view.php:188
+msgid "Header Settings"
+msgstr "Paramètres Header"
+
+#: view/admn-view.php:96 view/admn-view.php:172 view/admn-view.php:193
+#: view/admn-view.php:209 view/admn-view.php:211
+msgid "Sticky Header Settings"
+msgstr "Paramètres Sticky Header"
+
+#: view/admn-view.php:97 view/admn-view.php:227 view/admn-view.php:229
+msgid "Mobile/Tablette"
+msgstr "Mobile/Tablette"
+
+#: view/admn-view.php:98
+msgid "Custom CSS"
+msgstr "CSS Personnalisé"
+
+#: view/admn-view.php:99
+msgid "They contain design parameters so you can customize your header design as you like it"
+msgstr "Ils contiennent des paramètres de design qui vous permettent de personnaliser votre en-tête (header) comme vous le souhaitez"
+
+#: view/admn-view.php:100
+msgid "These 4 parts are described below"
+msgstr "Ces 4 parties sont décrites ci-dessous"
+
+#: view/admn-view.php:107
+msgid "Part 1 : Header Settings"
+msgstr "Partie 1 : Paramètres Header"
+
+#: view/admn-view.php:109
+msgid "This part will allow you to edit your header's design when it is"
+msgstr "Cette partie vous permettra de modifier le design de votre en-tête lorsqu'il"
+
+#: view/admn-view.php:109
+msgid "not sticky"
+msgstr "n'est pas défilant (sticky)"
+
+#: view/admn-view.php:109
+msgid ""
+"which means, you should use this part if you want \r\n"
+"        to edit your header design when it is displayed in the top of pages"
+msgstr ""
+"cela signifie que vous devez utiliser cette partie si vous souhaitez \r\n"
+"        modifier le design de votre header lorsqu'il est affiché en haut des pages"
+
+#: view/admn-view.php:111
+msgid "So make sure to have your page's"
+msgstr "Veillez donc à ce que le"
+
+#: view/admn-view.php:111
+msgid "header in top"
+msgstr "header de votre page soit en haut de la page"
+
+#: view/admn-view.php:111
+msgid ""
+"so you \r\n"
+"        can view the changes in"
+msgstr ""
+"afin que vous \r\n"
+"        puissiez visualiser les changements en"
+
+#: view/admn-view.php:112
+msgid "realtime"
+msgstr "temps réel"
+
+#: view/admn-view.php:112 view/admn-view.php:241 view/admn-view.php:249
+#: view/admn-view.php:261 view/admn-view.php:267
+msgid "(see the picture below)"
+msgstr "(voir l'image ci-dessous)"
+
+#: view/admn-view.php:119
+msgid "Part 2 : Sticky Header Settings"
+msgstr "Partie 2 : Paramètres Sticky Header"
+
+#: view/admn-view.php:121
+msgid "This part allows you to edit your header's design when"
+msgstr "Cette partie vous permet de modifier le design de votre header lorsque"
+
+#: view/admn-view.php:121
+msgid "it is sticky"
+msgstr "il n'est pas défilant (sticky)"
+
+#: view/admn-view.php:121
+msgid ""
+"which means, you should use this part if you want \r\n"
+"        to display your header in a certain way when"
+msgstr ""
+"cela signifie que vous devez utiliser cette partie si vous souhaitez \r\n"
+"        afficher votre en-tête d'une certaine manière lorsque"
+
+#: view/admn-view.php:122
+msgid "users are scrolling down"
+msgstr "les utilisateurs font défiler"
+
+#: view/admn-view.php:122
+msgid "your pages"
+msgstr "vos pages"
+
+#: view/admn-view.php:123
+msgid "So before starting editing in this part, make sure to"
+msgstr "Avant de commencer à modifier cette partie, veillez à faire"
+
+#: view/admn-view.php:123 view/admn-view.php:168 view/admn-view.php:208
+msgid "scroll a bit down"
+msgstr "défiler un peu plus bas"
+
+#: view/admn-view.php:123
+msgid "your home page so you can view the changes in realtime (see the picture below)"
+msgstr "votre page d'accueil afin de pouvoir visualiser les changements en temps réel (voir l'image ci-dessous)"
+
+#: view/admn-view.php:130
+msgid "Part 3 : Mobile/Tablette"
+msgstr "Partie 3 : Mobile/Tablette"
+
+#: view/admn-view.php:132
+msgid "This part will allow you to have a"
+msgstr "Cette partie vous permettra d'avoir un"
+
+#: view/admn-view.php:132
+msgid "sticky header on Mobile/Tablette"
+msgstr "en-tête (header) défilant (sticky) sur les écrans des téléphones/tablettes"
+
+#: view/admn-view.php:132
+msgid "screens, and edit its design"
+msgstr "et d'en modifier le design"
+
+#: view/admn-view.php:133
+msgid "You should use this part if you want to have a sticky header on"
+msgstr "Vous devriez utiliser cette partie si vous voulez avoir un header défilant (sticky) sur"
+
+#: view/admn-view.php:133
+msgid "small screens"
+msgstr "les petits écrans"
+
+#: view/admn-view.php:134
+msgid "So before starting editing in this part, make sure to switch the interface"
+msgstr "Avant de commencer à modifier cette partie, assurez-vous de basculer l'interface de"
+
+#: view/admn-view.php:134
+msgid "from Laptop to Mobile"
+msgstr "ordinateur à smartphone"
+
+#: view/admn-view.php:134
+msgid "so you can view the changes in realtime (see the picture below)"
+msgstr "afin de pouvoir visualiser les changements en temps réel (voir l'image ci-dessous)"
+
+#: view/admn-view.php:141
+msgid "Part 4 : Custom CSS"
+msgstr "Partie 4 : CSS Personnalisé"
+
+#: view/admn-view.php:143
+msgid "This part will allow you to add CSS code in order to customize your website's header"
+msgstr "Cette partie vous permettra d'ajouter du code CSS afin de personnaliser le header de votre site web"
+
+#: view/admn-view.php:149
+msgid "Useful Examples"
+msgstr "Exemples Utiles"
+
+#: view/admn-view.php:151
+msgid "How to change Header Background Color"
+msgstr "Comment modifier la Couleur du Fond du Header"
+
+#: view/admn-view.php:153
+msgid "Here you have 2 cases, it depends on you and how you want your header to be displayed"
+msgstr "Ici, vous avez deux possibilités, cela dépend de vous et de la façon dont vous voulez que votre header soit affiché"
+
+#: view/admn-view.php:154
+msgid "1st case : when the header is not sticky"
+msgstr "1er cas : lorsque le Header n'est pas défilant (sticky)"
+
+#: view/admn-view.php:155 view/admn-view.php:168 view/admn-view.php:207
+#: view/admn-view.php:225
+msgid "Let's presume you're already in the"
+msgstr "Supposons que vous soyez déjà dans la section"
+
+#: view/admn-view.php:155
+msgid "section, make sure to have the Header section positionned on top of the home page so you can view the changes in realtime (see the picture below)"
+msgstr ", assurez-vous que la section Header soit positionnée en haut de la page d'accueil afin que vous puissiez voir les changements en temps réel (voir l'image ci-dessous)"
+
+#: view/admn-view.php:159
+msgid "In"
+msgstr "Dans la partie"
+
+#: view/admn-view.php:159 view/admn-view.php:172 view/admn-view.php:188
+#: view/admn-view.php:193 view/admn-view.php:211 view/admn-view.php:229
+msgid "part"
+msgstr ""
+
+#: view/admn-view.php:160 view/admn-view.php:162 view/admn-view.php:173
+#: view/admn-view.php:175 view/admn-view.php:245 view/admn-view.php:249
+#: view/admn-view.php:253 view/admn-view.php:257 view/admn-view.php:261
+#: view/admn-view.php:267
+msgid "Click on"
+msgstr "Cliquez sur"
+
+#: view/admn-view.php:161 view/admn-view.php:174
+msgid "Choose the color, or add a color using the Hexadecimal field"
+msgstr "Choisissez la couleur, ou ajoutez une couleur en utilisant le champ Hexadécimal"
+
+#: view/admn-view.php:162 view/admn-view.php:175
+msgid "Enter"
+msgstr "Enter"
+
+#: view/admn-view.php:162 view/admn-view.php:175
+msgid "on your keyboard"
+msgstr "sur votre clavier"
+
+#: view/admn-view.php:163 view/admn-view.php:176 view/admn-view.php:195
+#: view/admn-view.php:231 view/admn-view.php:273
+msgid "Save By clicking on"
+msgstr "Sauvegarder en cliquant sur le bouton"
+
+#: view/admn-view.php:163 view/admn-view.php:176 view/admn-view.php:195
+#: view/admn-view.php:231 view/admn-view.php:273
+msgid "Publish"
+msgstr "Publier (Publish)"
+
+#: view/admn-view.php:163 view/admn-view.php:195 view/admn-view.php:231
+#: view/admn-view.php:257
+msgid "button (see the picture below)"
+msgstr "(voir l'image ci-dessous)"
+
+#: view/admn-view.php:167
+msgid "2nd case : when the header is sticky"
+msgstr "2ème cas : lorsque le Header est défilant (sticky)"
+
+#: view/admn-view.php:168
+msgid "section, make sure to"
+msgstr "veillez à"
+
+#: view/admn-view.php:168
+msgid "the home page so you can view the changes in realtime (see the picture below)"
+msgstr "la page d'accueil pour que vous puissiez voir les changements en temps réel (voir l'image ci-dessous)"
+
+#: view/admn-view.php:172
+msgid "Scroll Down to"
+msgstr "Faites défiler vers le bas jusqu'à"
+
+#: view/admn-view.php:176 view/admn-view.php:266 view/admn-view.php:272
+#: view/admn-view.php:273
+msgid "button"
+msgstr "bouton"
+
+#: view/admn-view.php:183
+msgid "My Header section disappeared, what is the reason"
+msgstr "La section Header du site a disparu, quelle en est la raison"
+
+#: view/admn-view.php:185
+msgid "may be because of"
+msgstr "peut être due au paramètre"
+
+#: view/admn-view.php:185
+msgid ""
+"parameter which has a small value, \r\n"
+"            in this case, you should set it at least to"
+msgstr ""
+"qui a une petite valeur, \r\n"
+"            dans ce cas, vous devez le fixer au moins à"
+
+#: view/admn-view.php:187
+msgid "To do so"
+msgstr "Pour ce faire"
+
+#: view/admn-view.php:188 view/admn-view.php:212
+msgid "Go to"
+msgstr "Aller à la partie"
+
+#: view/admn-view.php:189 view/admn-view.php:194
+msgid "Update"
+msgstr "Mettre à jour la valeur de"
+
+#: view/admn-view.php:189
+msgid "value (see the picture below)"
+msgstr "(voir l'image ci-dessous)"
+
+#: view/admn-view.php:193 view/admn-view.php:211
+msgid "Scroll down to"
+msgstr "Faites défiler vers le bas jusqu'à la partie"
+
+#: view/admn-view.php:194
+msgid "value"
+msgstr ""
+
+#: view/admn-view.php:199 view/admn-view.php:216
+msgid "Note"
+msgstr "Remarque"
+
+#: view/admn-view.php:199
+msgid "you can set"
+msgstr "vous pouvez définir la valeur"
+
+#: view/admn-view.php:199
+msgid "value between"
+msgstr "entre"
+
+#: view/admn-view.php:199
+msgid "1 to 100000"
+msgstr "1 et 100000"
+
+#: view/admn-view.php:199
+msgid "only"
+msgstr "seulement"
+
+#: view/admn-view.php:205
+msgid "How to add a bottom shadow to the sticky header"
+msgstr "Comment ajouter une ombre inférieure (bottom shadow) au Sticky Header"
+
+#: view/admn-view.php:207 view/admn-view.php:225
+msgid ""
+"section, \r\n"
+"            make sure to"
+msgstr "veillez à"
+
+#: view/admn-view.php:208
+msgid ""
+"the home page so you can view the changes in realtime\r\n"
+"            (Check the"
+msgstr ""
+"la page d'accueil pour que vous puissiez voir les changements en temps réel\r\n"
+"            (Vérifier la section"
+
+#: view/admn-view.php:209
+msgid "part image above)"
+msgstr "dans l'image ci-dessus)"
+
+#: view/admn-view.php:210 view/admn-view.php:228
+msgid "So the steps are"
+msgstr "Les étapes sont donc les suivantes"
+
+#: view/admn-view.php:212
+msgid "Shadow"
+msgstr "Ombre"
+
+#: view/admn-view.php:213 view/admn-view.php:214
+msgid "Set"
+msgstr "Régler"
+
+#: view/admn-view.php:213
+msgid "Vertical Alignment"
+msgstr "Alignement Vertical (Vertical Alignment)"
+
+#: view/admn-view.php:213
+msgid "(in the image underneath it's 10), as soon as you increase this, the header shadow will start appearing below the header"
+msgstr "(dans l'image ci-dessous, c'est 10), dès que vous augmentez cette valeur, l'ombre du header commencera à apparaître sous cette section"
+
+#: view/admn-view.php:214
+msgid "Blur"
+msgstr "Flou"
+
+#: view/admn-view.php:214
+msgid "(in the image underneath it's 5)"
+msgstr "(dans l'image ci-dessous, c'est 5)"
+
+#: view/admn-view.php:215
+msgid "Change the color as you wish. In the image underneath it's"
+msgstr "Modifiez la couleur comme vous le souhaitez. Dans l'image ci-dessous, c'est"
+
+#: view/admn-view.php:215
+msgid "#2ecc82"
+msgstr "#2ecc82"
+
+#: view/admn-view.php:216
+msgid "it's important to add Blur and Opacity for a better design results"
+msgstr "il est important d'ajouter du Flou (Blur) et de l'Opacité (Opacity) pour obtenir de meilleurs résultats"
+
+#: view/admn-view.php:223
+msgid "How to make the header sticky on mobile/tablette"
+msgstr "Comment rendre le header défilant (sticky) sur mobile/tablette"
+
+#: view/admn-view.php:226
+msgid "switch on"
+msgstr "affichez"
+
+#: view/admn-view.php:226
+msgid "the"
+msgstr ""
+
+#: view/admn-view.php:226
+msgid "mobile interface"
+msgstr "l'interface smartphone"
+
+#: view/admn-view.php:226
+msgid ""
+"by clicking on the mobile icon so you can view the changes in realtime.\r\n"
+"            (see the image above in the"
+msgstr ""
+"en cliquant sur l'icône mobile afin de visualiser les changements en temps réel.\r\n"
+"            (voir l'image ci-dessus dans la section"
+
+#: view/admn-view.php:227
+msgid "section)"
+msgstr ")"
+
+#: view/admn-view.php:229
+msgid "Scroll down till getting to the"
+msgstr "Faites défiler jusqu'à ce que vous arriviez à la partie"
+
+#: view/admn-view.php:230
+msgid "Check"
+msgstr "Vérifiez"
+
+#: view/admn-view.php:238
+msgid "How to make my website's header transparent using SH"
+msgstr "Comment rendre le header de mon site web transparent en utilisant SH"
+
+#: view/admn-view.php:240
+msgid "After Activating SH plugin, you should"
+msgstr "Après avoir activé le plugin SH, vous devez"
+
+#: view/admn-view.php:241
+msgid "Hover over the Astra icon in the"
+msgstr "Survolez l'icône Astra dans"
+
+#: view/admn-view.php:241
+msgid "Admin interface"
+msgstr "L'interface d'administration"
+
+#: view/admn-view.php:241
+msgid "then click on"
+msgstr "puis cliquez sur"
+
+#: view/admn-view.php:241
+msgid "customize"
+msgstr "personnaliser (customize)"
+
+#: view/admn-view.php:245
+msgid "Header Builder"
+msgstr "La section Header Builder"
+
+#: view/admn-view.php:245
+msgid "section (see the picture below)"
+msgstr "(voir l'image ci-dessous)"
+
+#: view/admn-view.php:249 view/admn-view.php:265 view/admn-view.php:266
+#: view/admn-view.php:271 view/admn-view.php:272
+msgid "Above Header"
+msgstr "La section Above Header"
+
+#: view/admn-view.php:253 view/admn-view.php:265 view/admn-view.php:271
+msgid "Design"
+msgstr "L'onglet Design"
+
+#: view/admn-view.php:253
+msgid "tab (see the picture below)"
+msgstr "(voir l'image ci-dessous)"
+
+#: view/admn-view.php:257 view/admn-view.php:266 view/admn-view.php:272
+msgid "Background"
+msgstr "Background"
+
+#: view/admn-view.php:257 view/admn-view.php:266 view/admn-view.php:272
+msgid "then on"
+msgstr "après sur le bouton"
+
+#: view/admn-view.php:257 view/admn-view.php:266 view/admn-view.php:272
+msgid "Clear"
+msgstr "Clear"
+
+#: view/admn-view.php:261
+msgid "Primary Header"
+msgstr "Primary Header"
+
+#: view/admn-view.php:265 view/admn-view.php:266 view/admn-view.php:271
+#: view/admn-view.php:272
+msgid "Same as the"
+msgstr "Même chose que la section"
+
+#: view/admn-view.php:265 view/admn-view.php:266 view/admn-view.php:271
+#: view/admn-view.php:272
+msgid "section, click on"
+msgstr ", cliquez sur"
+
+#: view/admn-view.php:267
+msgid "Below Header"
+msgstr "Below Header"
+
+#: view/admn-view.php:275
+msgid "For further questions, go to the"
+msgstr "Pour plus d'informations, consultez l'onglet"
+
+#: view/admn-view.php:275
+msgid "Support"
+msgstr "Support"
+
+#: view/admn-view.php:275
+msgid "tab where you'll find our contact details, thanks"
+msgstr "où vous trouverez nos coordonnées, merci"
+
+#: view/admn-view.php:284
+msgid "Please, if you have any issue with this plugin, or if you have any suggestion to make, contact us to WebTips email adress below, thanks"
+msgstr "Si vous avez des problèmes avec ce plugin, ou si vous avez des suggestions à faire, contactez-nous à l'adresse email de WebTips ci-dessous, merci"
+
+#: view/admn-view.php:291
+msgid "Email Adress"
+msgstr "Adresse Mail"
+
+#: view/admn-view.php:294
+msgid "WebTips Website"
+msgstr "Site Web de WebTips"
+
+#: view/admn-view.php:297
+msgid "WebTips Youtube Channel"
+msgstr "Chaîne Youtube de WebTips"
+
+#: view/admn-view.php:304
+msgid "For PRO Website Customization"
+msgstr "Pour une Personnalisation PRO"
+
+#: view/admn-view.php:307
+msgid "Fix website bugs/issues"
+msgstr "Corriger les bugs/problèmes d'un site web"
+
+#: view/admn-view.php:308
+msgid "Speed up website"
+msgstr "Accélérer un site web"
+
+#: view/admn-view.php:309
+msgid "Website redesign"
+msgstr "Refonte d'un site web"
+
+#: view/admn-view.php:310
+msgid "Analyse/Optimise website"
+msgstr "Analyser/Optimiser un site web"
+
+#: view/admn-view.php:313
+msgid "Reach Out To Us"
+msgstr "Prenez contact avec nous"
+
+#: view/admn-view.php:325
+msgid "Thank you for Activing Stick My Header for Astra"
+msgstr "Merci d'avoir activé Stick My Header for Astra"
+
+#: view/admn-view.php:328 view/banner.php:8
+msgid "Rate Our Plugin"
+msgstr "Évaluer notre plugin"
+
+#: view/admn-view.php:329
+msgid "Your feedback helps us improve and serve you better. If you enjoy using our plugin, please rate it on WordPress.org."
+msgstr "Vos commentaires nous aident à nous améliorer et à mieux vous servir. Si vous appréciez notre plugin, merci de l'évaluer sur WordPress.org."
+
+#: view/admn-view.php:330 view/banner.php:10
+msgid "Rate Now"
+msgstr "Notez ici"
+
+#: view/admn-view.php:333 view/banner.php:13
+msgid "Love our plugin? Help us keep it going"
+msgstr "Vous aimez notre plugin ? Aidez-nous à le faire marcher"
+
+#: view/admn-view.php:334
+msgid "Your donation can make a big difference. By supporting us, you enable continued development, new features, and better support."
+msgstr "Votre don peut faire une grande différence. En nous soutenant, vous permettez la poursuite du développement, l'ajout de nouvelles fonctionnalités et une meilleure assistance."
+
+#: view/admn-view.php:335 view/admn-view.php:345 view/banner.php:15
+msgid "Donate Now"
+msgstr "Faire un don"
+
+#: view/admn-view.php:343
+msgid "Thanks For Using Our Plugin"
+msgstr "Merci d'avoir utilisé notre plugin"
+
+#: view/admn-view.php:344
+msgid "Enjoying our free plugin ? Consider making a donation to support its development and future improvements, we really need it"
+msgstr "Vous appréciez notre plugin gratuit ? Pensez à faire un don pour soutenir son développement et ses améliorations futures, nous en avons vraiment besoin"
+
+#: view/banner.php:5
+msgid "Thank you for Activating Stick My Header for Astra"
+msgstr "Merci d'avoir activé Stick My Header for Astra"
+
+#: view/banner.php:9
+msgid "Your feedback helps us improve and serve you better. If you enjoy using our plugin, please rate it on WordPress.org"
+msgstr "Vos commentaires nous aident à nous améliorer et à mieux vous servir. Si vous appréciez notre plugin, merci de le noter sur WordPress.org"
+
+#: view/banner.php:14
+msgid "Your donation can make a big difference. By supporting us, you enable continued development, new features, and better support"
+msgstr "Votre don peut faire une grande différence. En nous soutenant, vous permettez la poursuite du développement, l'ajout de nouvelles fonctionnalités et l'amélioration de l'assistance"

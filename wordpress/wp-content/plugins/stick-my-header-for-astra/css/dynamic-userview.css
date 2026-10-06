@@ -1,0 +1,12 @@
+/*------------------------------LAPTOP SCREEN------------------------------*/
+
+/*Simple Mode*/
+#ast-desktop-header {    
+    width: 100%;                  
+} 
+
+/*Sticky Mode*/
+#ast-desktop-header.sticky { 
+    position: fixed;
+    width: 100%;
+}

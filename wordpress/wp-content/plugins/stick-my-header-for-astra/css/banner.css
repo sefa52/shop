@@ -1,0 +1,21 @@
+.flex {
+    display: flex;
+}
+
+.ash-banner {
+    column-gap: 10px;
+}
+
+.notice-ash {
+    border-left-color: #dd376f;
+}
+
+.sh-logo-banner {
+    height: 5rem; 
+    width: 5rem; 
+    margin-right: 20px;
+}
+
+.thank-you {
+    align-items: center;
+}

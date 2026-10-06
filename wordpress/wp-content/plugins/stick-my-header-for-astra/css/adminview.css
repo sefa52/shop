@@ -1,0 +1,282 @@
+.flex {
+    display:flex;
+}
+
+.welcome-title h1 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+
+.welcome-title span {
+    font-weight: 500;
+    font-size: 0.625rem;
+    color: rgb(4, 107, 210, 1);
+}
+
+.hello-text {
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: rgb(30, 41, 59, 1);
+}
+
+.text-desc {
+    color: rgb(71, 85, 105, 1);
+    line-height: 1.625rem;
+    font-size: 1rem;
+}
+
+.text {
+    color: rgb(71, 85, 105, 1);
+    line-height: 1.625rem;
+    font-size: 0.9rem;
+    max-width: 500px;
+}
+
+.left-section {
+    max-width:500px;
+}
+
+.scroll-gif {
+    width:200px;
+    height:200px;
+}
+
+.sh-logo {
+    height: 2.4rem; 
+    width: 2.4rem; 
+    padding-top: 7px; 
+    margin-right: 30px;
+}
+
+.white-background {
+    background-color: white;
+}
+
+.nav-tab-active {
+    color: rgb(4, 107, 210, 1);
+}
+
+/* -----Donation Modal Style----- */
+  
+.modal-logo.sh {
+    height: 2.4rem; 
+    width: 2.4rem; 
+    padding-top: 10px;
+    margin: 10px;
+}
+
+.modal-logo.webtips {
+    height: 2.8rem; 
+    width: 2.8rem; 
+    padding-top: 10px;
+    margin: 10px;
+}
+
+.modal .flex {
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 40%;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.close-modal {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close-modal:hover,
+.close-modal:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+button.donation-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.content.tab-welcome {
+    margin-right: 30px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.text-btn {
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.text-btn.go-to-customizer {
+    color: white;
+    padding: 10px;
+    border:0;
+    border-radius: 5px;
+    background-color: #046bd2;
+}
+
+.text-btn.go-to-customizer:hover {
+    background-color: #0956a4;
+}
+
+.go-to-video {
+    color: #046bd2;
+    padding: 10px;
+    border:0;
+    background-color: white;
+}
+
+.right-btn-container {
+    vertical-align: middle;
+}
+
+.buttons {
+    display: flex;
+    column-gap: 30px;
+}
+
+.ash-header {
+    justify-content: space-between;
+    padding: 0 20px 0 20px;
+    margin-left: -20px;
+}
+
+.rate-and-donate {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.rate {
+    display: flex;
+    width: 200px;
+    align-items: center;
+}
+
+.plugin-footer {
+    margin-top: 50px;
+}
+
+.sh-logo-banner {
+    height: 5rem; 
+    width: 5rem; 
+    margin-right: 20px;
+}
+
+.thank-you {
+    align-items: center;
+}
+
+.banner {
+    background-color: white;
+    padding: 0 20px 0 20px;
+    margin-right: 30px;
+    column-gap: 10px;
+}
+
+.content.tab-documentation {
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.content.tab-documentation img {
+    max-width: 1000px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.separator {
+    color: rgb(187, 184, 184);
+}
+
+.question {
+    font-size: 1.1rem;
+}
+
+.contact-details {
+    padding-left: 20px;
+}
+
+.support-content {
+    column-gap: 30px;
+}
+
+.further-customization {
+    background-color: #1db594;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+.further-customization h1 {
+    color: purple;
+    font-weight: bold;
+}
+
+.further-customization .title {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+}
+
+.further-customization .offers {
+    border-radius: 5px;
+    padding: 10px 10px 10px 20px;
+}
+
+.further-customization li {
+    font-size: 20px;
+    color: white;
+    padding-top: 20px;
+}
+
+.further-customization .button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0073aa; /* Change to your preferred color */
+    color: #ffffff; /* Text color */
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.further-customization .button-link:hover {
+    background-color: #d00883; /* Change to your preferred hover color */
+    color: #ffffff; /* Text color */
+}
